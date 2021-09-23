@@ -1,0 +1,89 @@
+body {
+    margin: 0;
+    text-align: center;
+    background-color:#CEE5D0 ;
+}
+h1 {
+    font-size: 5.625rem;
+    color:#66BFBF;
+    margin:50px;
+    font-family: 'Montserrat', sans-serif;
+}
+h3{
+    color: #66BFBF;
+}
+h2{
+    color: #66BFBF;
+}
+.title1{
+    text-align: left;
+}
+.title2{
+    text-align: right;
+}
+
+.first-para {
+    color: #66BFBF;
+    margin-left: 10px;
+    font-family: 'Dancing Script', cursive;
+    font-weight: normal;
+    line-height: 2;
+    font-size: 1.5rem;
+}
+
+.cloud-img {
+    position: absolute;
+    right: 300px;
+    
+}
+   
+.cloud-i {
+    position: absolute;
+    left: 300px;
+    
+    
+}
+.container{
+    
+    position: relative;  
+    padding-top: 100px;  
+}
+
+.para {
+   
+    color: brown;
+    display: inline-block;
+}
+.middle-container{
+
+}
+.bottom-container{
+
+}
+.skill-row{
+    width: 50%;
+    margin:100px auto 100px auto;
+    line-height: 2;
+}
+.dance{
+    
+    float: left;
+    margin-right: 30px;
+    width: 25%;
+}
+.dance-id{
+    margin: auto;
+    width: 60%;
+    text-align: left;
+    
+}
+.writing{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+.writing-id{
+    text-align: right;
+    margin: auto;
+    width: 60%;
+}

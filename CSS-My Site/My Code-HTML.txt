@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <!-- <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> -->
+    <title>Surabhi MS</title>
+    <link rel="stylesheet" href="CSS/styles.css">
+    <link rel="icon" href="favicon.ico">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Caramel&display=swap" rel="stylesheet">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap" rel="stylesheet">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Dancing+Script&family=Playfair+Display&display=swap" rel="stylesheet">
+
+</head>
+<body>
+    <div class="first-div">
+        <img class="cloud-img" src="Images/cloud.png" alt="cloud-img">
+        <h1>Surabhi MS</h1>
+        <p>I'm an Engineer, <span class="para"> I love Momos!</span> Welcome to my website</p>
+        <img class="cloud-i" src="Images/cloud.png" alt="cloud-image">
+        <img  class="mountain-i" src="Images/mountain.png" alt="mountain-img">
+    </div>
+    <div class="first-container">
+        
+    </div>
+    <div class="middle-container">
+        
+    </div>
+    <div class="bottom-container">
+        
+    </div>
+</body>
+</html>
